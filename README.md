@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://fares-portfolio.vercel.app/](https://fares-portfolio.vercel.app/)
 
-- 💬 Ask me about **React,Next,tsx,jsx,Tailwind**
+- 💬 Ask me about **React,Next,TypeScript,javaScript,Tailwind**
 
 - 📫 How to reach me **fares.dev.m@gmail.com**
 
