@@ -1,4 +1,10 @@
 # 💫 About Me:
+<h1 align="center">
+  Front-End Developer with strong experience in building responsive and accessible web applications using modern
+technologies like React, Next.js, Tailwind CSS, and TypeScript. Skilled in turning designs into clean, high-performance user
+interfaces with a strong focus on UI/UX. Comfortable working in Agile environments, using tools like Git, Jest, and Ajax to
+deliver scalable and maintainable solutions. Passionate about continuous learning and contributing to innovative, usercentered projects.
+</h1>
 <h1 align="center">Hi 👋, I'm FARES MOHAMED MOSTAFA</h1><br><h3 align="center">A passionate frontend developer from EGYPT</h3><br><br>- 🔭 I’m currently working on **Task manager web app**<br><br>- 🌱 I’m currently learning **MERN Stack**<br><br>- 👨‍💻 All of my projects are available at [https://fares-portfolio.vercel.app/]<br><br>- 💬 Ask me about **React,Next,TypeScript,javaScript,Tailwind**<br><br>- 📫 How to reach me **fares.dev.m@gmail.com**<br><br>- 📄 Know about my experiences [https://fares-portfolio.vercel.app/pdf/cv.pdf]
 
 
