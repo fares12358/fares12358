@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm FARES MOHAMED MOSTAFA</h1><br><h3 align="center">A passionate frontend developer from EGYPT</h3><br><br>- 🔭 I’m currently working on **Task manager web app**<br><br>- 🌱 I’m currently learning **MERN Stack**<br><br>- 👨‍💻 All of my projects are available at [https://fares-portfolio.vercel.app/](https://fares-portfolio.vercel.app/<br><br>- 💬 Ask me about **React,Next,TypeScript,javaScript,Tailwind**<br><br>- 📫 How to reach me **fares.dev.m@gmail.com**<br><br>- 📄 Know about my experiences [https://fares-portfolio.vercel.app/pdf/cv.pdf](https://fares-portfolio.vercel.app/pdf/cv.pdf
+<h1 align="center">Hi 👋, I'm FARES MOHAMED MOSTAFA</h1><br><h3 align="center">A passionate frontend developer from EGYPT</h3><br><br>- 🔭 I’m currently working on **Task manager web app**<br><br>- 🌱 I’m currently learning **MERN Stack**<br><br>- 👨‍💻 All of my projects are available at [https://fares-portfolio.vercel.app/]<br><br>- 💬 Ask me about **React,Next,TypeScript,javaScript,Tailwind**<br><br>- 📫 How to reach me **fares.dev.m@gmail.com**<br><br>- 📄 Know about my experiences [https://fares-portfolio.vercel.app/pdf/cv.pdf]
 
 
 ## 🌐 Socials:
