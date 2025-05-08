@@ -10,7 +10,7 @@ deliver scalable and maintainable solutions. Passionate about continuous learnin
 </h3>
 
 <h4 align="center">A passionate frontend developer from EGYPT</h4><br><br>- 🔭 I’m currently working on **Task manager web app**<br><br>- 🌱 I’m currently learning **MERN Stack**<br><br>-
- 🌱 I’m currently stuuding at New Cairo Technology University **Faculty of Industry and Energy Technology** **Information and Communication Technology** <br><br>-
+ 🌱 I’m currently stuuding at New Cairo Technology University<br><br>- **Faculty of Industry and Energy Technology**<br><br>- **Information and Communication Technology** <br><br>-
 👨‍💻 All of my projects are available at [https://fares-portfolio.vercel.app/]<br><br>- 💬 Ask me about **React,Next,TypeScript,javaScript,Tailwind**<br><br>- 📫 How to reach me **fares.dev.m@gmail.com**<br><br>- 📄 Know about my experiences [https://fares-portfolio.vercel.app/pdf/cv.pdf]
 
 ## 🌐 Socials:
