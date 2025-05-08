@@ -9,7 +9,9 @@ interfaces with a strong focus on UI/UX. Comfortable working in Agile environmen
 deliver scalable and maintainable solutions. Passionate about continuous learning and contributing to innovative, usercentered projects.
 </h3>
 
-<h4 align="center">A passionate frontend developer from EGYPT</h4><br><br>- 🔭 I’m currently working on **Task manager web app**<br><br>- 🌱 I’m currently learning **MERN Stack**<br><br>- 👨‍💻 All of my projects are available at [https://fares-portfolio.vercel.app/]<br><br>- 💬 Ask me about **React,Next,TypeScript,javaScript,Tailwind**<br><br>- 📫 How to reach me **fares.dev.m@gmail.com**<br><br>- 📄 Know about my experiences [https://fares-portfolio.vercel.app/pdf/cv.pdf]
+<h4 align="center">A passionate frontend developer from EGYPT</h4><br><br>- 🔭 I’m currently working on **Task manager web app**<br><br>- 🌱 I’m currently learning **MERN Stack**<br><br>-
+ 🌱 I’m currently stuuding at New Cairo Technology University **Faculty of Industry and Energy Technology** **Information and Communication Technology** <br><br>-
+👨‍💻 All of my projects are available at [https://fares-portfolio.vercel.app/]<br><br>- 💬 Ask me about **React,Next,TypeScript,javaScript,Tailwind**<br><br>- 📫 How to reach me **fares.dev.m@gmail.com**<br><br>- 📄 Know about my experiences [https://fares-portfolio.vercel.app/pdf/cv.pdf]
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/https://www.facebook.com/profile.php?id=100038710270979&mibextid=zbwkwl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/fares-mohamed-74980a241/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Fares Mohamed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fm883254@gmail.com) 
