@@ -9,7 +9,7 @@ interfaces with a strong focus on UI/UX. Comfortable working in Agile environmen
 deliver scalable and maintainable solutions. Passionate about continuous learning and contributing to innovative, usercentered projects.
 </h3>
 
-<h4 align="center">A professional software developer from EGYPT</h4><br><br>- 🔭 I’m currently working on **Sand Valley flutter app for sand valley farm using flutter and nodejs express** <br><br>- 🌱 I’m currently learning **MERN Stack**<br><br>-
+<h4 align="center">A professional software developer from EGYPT</h4><br><br>- 🔭 I’m currently working on **classroom app using flutter and website dashboard mern stack** <br><br>- 🌱 I’m currently learning **MERN Stack**<br><br>-
  🌱 I’m currently studing at New Cairo Technology University<br><br>- **Faculty of Industry and Energy Technology**<br><br>- **Information and Communication Technology** <br><br>-
 👨‍💻 All of my projects are available at [https://fares-portfolio.vercel.app/]<br><br>- 💬 Ask me about **React,Next,TypeScript,javaScript,Tailwind,nodejs,mongoDB,Express**<br><br>- 📫 How to reach me **fares.dev.m@gmail.com**<br><br>- 📄 Know about my experiences [https://fares-portfolio.vercel.app/pdf/cv.pdf]
 
