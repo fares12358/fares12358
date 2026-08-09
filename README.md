@@ -108,7 +108,7 @@ Freelance **MERN Stack Developer** with **10+ full-stack production systems** de
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fares12358&show_icons=true&theme=tokyonight&hide_border=true&title_color=0EA5A4&icon_color=0EA5A4" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fares12358-dev&theme=tokyonight&hide_border=true&ring=0EA5A4&fire=0EA5A4&currStreakLabel=0EA5A4" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fares12358&theme=tokyonight&hide_border=true&ring=0EA5A4&fire=0EA5A4&currStreakLabel=0EA5A4" width="48%" />
 </p>
 
 <p align="center">
@@ -133,7 +133,7 @@ Freelance **MERN Stack Developer** with **10+ full-stack production systems** de
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fares-mohamed-dev&color=0EA5A4&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=fares12358&color=0EA5A4&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
